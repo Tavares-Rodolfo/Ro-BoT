@@ -1,0 +1,12 @@
+Ro-Bot is a Shell script program [For Arch Linux based distros] 
+
+Keep Scripts folder in your /home then give permission, run as sudo “chmod x+u ./Ro-Bot.sh“
+
+Dialog package is required [pacman -Syu dialog]
+
+  Some changes for 2.0 Version [Coming soon] 
+  “echo“ command replaced by printf
+  Support for “English language“
+  Support for “Spanish language“
+  Suport for Debian based distros
+  “Others minor improvements“
